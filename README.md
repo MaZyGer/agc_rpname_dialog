@@ -1,3 +1,5 @@
+**- This addon is from 2016. Maybe it does not work anymore! -**
+
 Funktion:
 
 * Fordert auf einen Spieler einen Roleplaynamen zu setzen, aufgeteilt in Firstname und Lastname, falls er keinen gesetzt hat.
